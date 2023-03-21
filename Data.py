@@ -44,6 +44,8 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/panda-repo/filesharing'>File-Sharing-Man v4</a>
+ • Source Code: <a href='https://github.com/panda-repo/filesharing'>filesharing</a>
+
+
 🐼 Develoved by </b><a href='https://t.me/Own_Panda'>Owl</a>
 """
