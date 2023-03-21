@@ -18,7 +18,9 @@ class Data:
  ├ /batch - Untuk membuat link lebih dari satu file
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
-👨‍💻 Develoved by </b><a href='https://t.me/own_panda'>Owl</a>
+
+
+🐼 Develoved by </b><a href='https://t.me/own_panda'>Owl</a>
 """
 
     close = [
