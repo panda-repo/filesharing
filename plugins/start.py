@@ -219,7 +219,7 @@ Akun Terhapus: <code>{deleted}</code></b>"""
         await msg.delete()
 
 
-@Bot.on_message(filters.command("pan"))
+@Bot.on_message(filters.command("ping"))
 async def ping_pong(client, m: Message):
     start = time()
     current_time = datetime.utcnow()
