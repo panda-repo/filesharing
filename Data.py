@@ -6,7 +6,7 @@ class Data:
  ├ /start - Mulai Bot
  ├ /about - Tentang Bot ini
  ├ /help - Bantuan Perintah Bot ini
- ├ /pan - Untuk mengecek bot hidup
+ ├ /ping - Untuk mengecek bot hidup
  └ /uptime - Untuk melihat status bot 
  
  ❏ Perintah Untuk Admin BOT
