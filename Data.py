@@ -20,7 +20,7 @@ class Data:
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
 
-🐼 Develoved by </b><a href='https://t.me/own_panda'>Owl</a>
+🐼 Develoved by </b><a href='https://t.me/panda_repo'>Pada 🐼</a>
 """
 
     close = [
@@ -49,5 +49,5 @@ class Data:
  • Source Code: <a href='https://github.com/panda-repo/filesharing'>filesharing</a>
 
 
-🐼 Develoved by </b><a href='https://t.me/Own_Panda'>Owl</a>
+🐼 Develoved by </b><a href='https://t.me/Panda_Repo>Panda 🐼</⁶a>
 """
