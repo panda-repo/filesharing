@@ -49,5 +49,5 @@ class Data:
  • Source Code: <a href='https://github.com/panda-repo/filesharing'>filesharing</a>
 
 
-🐼 Develoved by </b><a href='https://t.me/Panda_Repo>Panda 🐼</⁶a>
+🐼 Develoved by </b><a href='https://t.me/Panda_Repo'>Panda 🐼</a>
 """
