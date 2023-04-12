@@ -97,8 +97,7 @@ def fsub_button(client, message):
                     InlineKeyboardButton(
                         text="ᴄᴏʙᴀ ʟᴀɢɪ",
                         url=f"https://t.me/{client.username}?start={message.command[1]}",
-                    ),
-InlineKeyboardButton(text="PanHub (18+ Area)", url=f"https://t.me/PanHub18"),
+                    )
                 ]
             )
         except IndexError:
