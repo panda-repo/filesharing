@@ -106,7 +106,7 @@ class Bot(Client):
                 f"Pastikan @{self.username} adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Chat https://t.me/own_panda untuk Bantuan"
+                "Bot Berhenti. Chat https://t.me/panda_repo untuk Bantuan"
             )
             sys.exit()
 
