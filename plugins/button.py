@@ -55,7 +55,6 @@ def fsub_button(client, message):
             ],
         ]
         try:
-    buttons.append([InlineKeyboardButton(text="Join Channel", url=f"http://t.me/bokepjolie")])
             buttons.append(
                 [
                     InlineKeyboardButton(
@@ -74,7 +73,6 @@ def fsub_button(client, message):
             ],
         ]
         try:
-    buttons.append([InlineKeyboardButton(text="Join Channel", url=f"http://t.me/bokepjolie")])
             buttons.append(
                 [
                     InlineKeyboardButton(
@@ -94,8 +92,7 @@ def fsub_button(client, message):
             ],
         ]
         try:
-    buttons.append([InlineKeyboardButton(text="Join Channel", url=f"http://t.me/bokepjolie")])
-            buttons.append(
+           buttons.append(
                 [
                     InlineKeyboardButton(
                         text="ᴄᴏʙᴀ ʟᴀɢɪ",
