@@ -20,7 +20,7 @@ class Data:
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
 
-🐼 Develoved by </b><a href='https://t.me/panda_repo'>Pada 🐼</a>
+🐼 Develoved by </b><a href='https://t.me/panda_repo'>Panda 🐼</a>
 """
 
     close = [
