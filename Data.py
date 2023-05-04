@@ -20,7 +20,7 @@ class Data:
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
 
-🐼 Develoved by </b><a href='https://t.me/panda_repo'>Panda 🐼</a>
+😼 Develoved by </b><a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
 """
 
     close = [
@@ -46,8 +46,8 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/panda-repo/filesharing'>filesharing</a>
+ • Source Code: <a href='ttps://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
 
 
-🐼 Develoved by </b><a href='https://t.me/Panda_Repo'>Panda 🐼</a>
+😼 Develoved by </b><a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
 """
