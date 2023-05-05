@@ -51,9 +51,9 @@ class Data:
 
 😼 Develoved by </b><a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
 """
-   TALLENT = ""'
+   TALLENT = """
    <a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>
    """
     close = [
         [InlineKeyboardButton("Close", callback_data="close")]
-    ]
+]
