@@ -41,11 +41,12 @@ class Data:
     ]
 
     TALENT = """
-<b>Tentang Bot ini:
+<b>Verifed Talent
 
-@{} Berikut List Talent Telah Terverifikasi di NekoManagement.
+
 
  ❏ Owner NekoManagement: @{}
- •<a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>'>
+ └ <a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>'>
+
 
  """
