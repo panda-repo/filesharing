@@ -43,9 +43,9 @@ class Data:
     TALENT = """
 <b>Tentang Bot ini:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} Berikut List Talent Telah Terverifikasi di NekoManagement.
 
- • Creator: @{}
- • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
-"""
+ ❏ Owner NekoManagement: @{}
+ •<a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>'>
+
+ """
