@@ -45,8 +45,13 @@ class Data:
 
 
 
- ❏ Owner NekoManagement: @{}
- └ <a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>
+ ❏ Owner:<a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
+ ├ <a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>
+ └ <a href='https://t.me/sexaftergetmoney'>. 𝓳opa ꭙ 𝙉𝙚𝙠𝙤</a>
+ 
+ 
+ Untuk daftar/verifikasi talent bisa chat ke <a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
+
 
 
  """
