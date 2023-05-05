@@ -10,11 +10,11 @@ from pyrogram.errors import MessageNotModified
 from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, Message
 
 
-@Bot.on_message(filters.private & filters.incoming & filters.command("about"))
+@Bot.on_message(filters.private & filters.incoming & filters.command("talent"))
 async def _about(client: Bot, msg: Message):
     await client.send_message(
         msg.chat.id,
-        Data.ABOUT.format(client.username, OWNER),
+        Data.TALENT.format(client.username, OWNER),
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(Data.mbuttons),
     )
@@ -33,10 +33,10 @@ async def _help(client: Bot, msg: Message):
 @Bot.on_callback_query()
 async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
-    if data == "about":
+    if data == "talent":
         try:
             await query.message.edit_text(
-                text=Data.ABOUT.format(client.username, OWNER),
+                text=Data.TALENT.format(client.username, OWNER),
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(Data.mbuttons),
             )
