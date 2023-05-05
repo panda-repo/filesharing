@@ -34,6 +34,14 @@ async def _help(client: Bot, msg: Message):
         reply_markup=InlineKeyboardMarkup(Data.buttons),
     )
 
+    Bot.on_message(filters.private & filters.incoming & filters.command("tallent"))
+async def _help(client: Bot, msg: Message):
+    await client.send_message(
+        msg.chat.id,
+        "<b>List Tallent NekoManagement</b>\n" + Data.TALLENT,
+        disable_web_page_preview=True,
+        reply_markup=InlineKeyboardMarkup(Data.buttons),
+    )
 
 @Bot.on_callback_query()
 async def cb_handler(client: Bot, query: CallbackQuery):
