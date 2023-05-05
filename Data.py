@@ -24,20 +24,20 @@ class Data:
 """
 
     close = [
-        [InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")]
+        [InlineKeyboardButton("Close", callback_data="close")]
     ]
 
     mbuttons = [
         [
-            InlineKeyboardButton("ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
+            ("Help & Commands", callback_data="help"),
+            InlineKeyboardButton("Tutup", callback_data="close")
         ],
     ]
 
     buttons = [
         [
-            InlineKeyboardButton("ᴛᴇɴᴛᴀɴɢ sᴀʏᴀ", callback_data="about"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
+            InlineKeyboardButton("Tentang Saya", callback_data="about"),
+            InlineKeyboardButton("Tutup", callback_data="close")
         ],
     ]
 
@@ -51,3 +51,6 @@ class Data:
 
 😼 Develoved by </b><a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
 """
+   TALLENT = ""'
+   <a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a>
+   """
