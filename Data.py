@@ -45,7 +45,7 @@ class Data:
 ❏ Owner:<a href='https://t.me/OwnNeko'>ꭙ 𝙉𝙚𝙠𝙤 ꭙ</a>
  
 
- ❏ List |    Nama    |    Type Talent
+ ❏ List |    Nama    |  Type Talent
  1.  <a href='https://t.me/DeaPilo'>𝘿𝙚𝙖 ꭙ 𝙉𝙚𝙠𝙤</a> [ Vcs & BO ]
  2.  <a href='https://t.me/sexaftergetmoney'>. 𝓳opa ꭙ 𝙉𝙚𝙠𝙤</a> [ Vip & Vcs ]
 
